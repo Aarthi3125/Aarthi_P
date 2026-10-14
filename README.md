@@ -144,6 +144,13 @@ A personal website showcasing my technical skills, projects, and professional pr
 </div>
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Aarthi3125/Aarthi_P/output/github-snake-dark.svg)
+
+</div>
 
 <div align="center">
 
