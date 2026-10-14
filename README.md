@@ -134,7 +134,6 @@ A responsive website showcasing my skills, projects, and professional profile.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthi3125&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="49%"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
