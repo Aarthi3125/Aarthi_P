@@ -1,24 +1,22 @@
 
-<!-- ================= PROFILE BANNER ================= -->
 <div align="center">
 
-<img src="./banner.png" alt="Aarthi P - Developer Banner" width="100%"/>
+<img src="./banner.png" alt="Aarthi P Developer Banner" width="100%"/>
 
 <br/>
 
-# Hi, I'm Aarthi P 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aarthi+P+%F0%9F%91%8B;Aspiring+Frontend+Developer;Python+Developer;Building+Projects+%26+Learning+Every+Day" alt="Animated Typing Introduction"/>
 
-### Final-Year B.E. Computer Science and Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Frontend+Developer;Python+Developer;Building+Practical+Projects;Always+Learning+Something+New" alt="Typing introduction"/>
+### 💻 Final-Year B.E. Computer Science and Engineering Student
 
 <p>
-  <a href="https://github.com/Aarthi3125">GitHub</a> ·
-  <a href="https://linkedin.com/in/aarthi-periyasamy/">LinkedIn</a> ·
+  <a href="https://github.com/Aarthi3125">GitHub</a> •
+  <a href="https://linkedin.com/in/aarthi-periyasamy/">LinkedIn</a> •
   <a href="https://aarthi3125.github.io/Aarthi-P-profile/">Portfolio</a>
 </p>
 
-**Frontend Development | Python | Web Applications**
+<img src="https://img.shields.io/badge/Frontend-Developer-00D9FF?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Developer"/>
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
 
 </div>
 
@@ -26,35 +24,35 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Aarthi P**, a final-year B.E. Computer Science and Engineering student at Paavai Engineering College. I enjoy creating responsive websites and practical software applications.
+I'm **Aarthi P**, a final-year Computer Science and Engineering student at Paavai Engineering College. I enjoy building responsive websites and practical software applications.
 
-- 🎓 B.E. Computer Science and Engineering (2023–2027)
-- 💻 Interested in Frontend Development and Python Development
-- 🌱 Learning web technologies and application development
-- 🚀 Building projects that solve practical problems
-- 🤝 Interested in internships and entry-level software development opportunities
+- 🎓 B.E. CSE (2023–2027)
+- 🌐 Interested in Frontend Development
+- 🐍 Learning and building with Python and Flask
+- 🚀 Developing projects that solve practical problems
+- 🤝 Looking for internships and entry-level opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages & Web Development
+### 💻 Programming & Frontend
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS and JavaScript icons"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python Java HTML CSS JavaScript icons"/>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=flask,mysql" alt="Flask and MySQL icons"/>
+<img src="https://skillicons.dev/icons?i=flask,mysql" alt="Flask MySQL icons"/>
 
-### Development Tools
+### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub icons"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code Git GitHub icons"/>
 
 </div>
 
-**Core Concepts:** Object-Oriented Programming Basics · Data Structures Basics · DBMS · SQL
+**Core Concepts:** OOP Basics · Data Structures Basics · DBMS · SQL
 
 ---
 
@@ -62,57 +60,49 @@ Hello! I'm **Aarthi P**, a final-year B.E. Computer Science and Engineering stud
 
 ### 🏥 MediQ — E-Hospital Queue Management System
 
-A web application concept focused on simplifying hospital appointment booking and patient queue management.
+A web application designed to simplify hospital appointments and patient queue management.
 
-- Appointment booking and doctor selection
+- Online appointment booking and doctor selection
 - Digital token generation
 - Patient queue tracking
-- Designed to reduce manual queue management
+- Reduced reliance on manual queue management
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, MySQL
+**Technologies:** Python · Flask · HTML · CSS · JavaScript · MySQL
 
 ### 🤖 AI-Powered Interactive Classroom for Rural Children
 
-**Status: Ongoing**
+**Status:** Ongoing
 
-An interactive learning project designed to encourage classroom participation and confidence among rural students.
+An interactive learning project that encourages rural students to participate confidently in classroom activities.
 
 - Interactive quizzes and learning activities
 - Student participation tracking
-- Personalized practice and learning support
+- Personalized practice support
 - Activities to encourage active participation
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, MySQL
+**Technologies:** Python · Flask · HTML · CSS · JavaScript · MySQL
 
 ### 🌐 Personal Portfolio Website
 
-A personal website showcasing my technical skills, projects, and professional profile.
+A responsive website showcasing my skills, projects, and professional profile.
 
-- Responsive website layout
-- Simple and user-friendly interface
-- Project and profile information
+**Technologies:** HTML · CSS · JavaScript
 
-**Technologies:** HTML, CSS, JavaScript
-
-[Visit my portfolio](https://aarthi3125.github.io/Aarthi-P-profile/)
+[Visit My Portfolio](https://aarthi3125.github.io/Aarthi-P-profile/)
 
 ---
 
 ## 💼 Internship Experience
 
-### Frontend Development Intern — GreenPixelTech
+**Frontend Development Intern — GreenPixelTech**
+- Practiced responsive web development using HTML, CSS, and JavaScript.
+- Worked on portfolio and restaurant website projects.
 
-- Practiced responsive web page development using HTML, CSS and JavaScript
-- Worked on frontend implementation and user interface development
-- Developed portfolio and restaurant website projects
+**Virtual Internship — Alteryx**
+- Learned about data analytics and process automation.
 
-### Virtual Internship — Alteryx
-
-- Participated in a virtual internship focused on data analytics and process automation
-
-### Virtual Internship — Google Android Developer
-
-- Participated in an Android development virtual internship
+**Virtual Internship — Google Android Developer**
+- Participated in an Android development virtual internship.
 
 ---
 
@@ -127,11 +117,23 @@ A personal website showcasing my technical skills, projects, and professional pr
 
 ## 🎯 Current Goals
 
-- Strengthen my frontend development skills
-- Improve my Python programming knowledge
-- Build and document practical projects
-- Learn better coding practices and version control
-- Prepare for software development internships and entry-level opportunities
+- Strengthen frontend development skills
+- Improve Python programming knowledge
+- Build useful and practical projects
+- Learn clean coding and version control
+- Prepare for software development opportunities
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aarthi3125&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthi3125&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="49%"/>
+
+</div>
 
 ---
 
@@ -139,27 +141,20 @@ A personal website showcasing my technical skills, projects, and professional pr
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Aarthi3125/Aarthi3125/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Aarthi3125/Aarthi_P/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
 ---
-## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Aarthi3125/Aarthi_P/output/github-snake-dark.svg)
+### ✨ Thanks for visiting my profile!
 
-</div>
+*Keep learning. Keep building. Keep growing.* 💙
 
-<div align="center">
-
-### 🤝 Thanks for visiting my profile!
-
-*Learning, building, and improving one project at a time.* 💙
-
-<a href="https://github.com/Aarthi3125">GitHub</a> ·
-<a href="https://linkedin.com/in/aarthi-periyasamy/">LinkedIn</a> ·
+<a href="https://github.com/Aarthi3125">GitHub</a> •
+<a href="https://linkedin.com/in/aarthi-periyasamy/">LinkedIn</a> •
 <a href="https://aarthi3125.github.io/Aarthi-P-profile/">Portfolio</a>
 
 </div>
